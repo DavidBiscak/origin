@@ -1,2 +1,0 @@
-print("draw")
-print("sffs")
